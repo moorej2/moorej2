@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Jeremy 👋🏾
 
-<!--
-**moorej2/moorej2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 San Francisco ↔ NYC | 🛠 SWE (5+ YOE) | 🎧 Motif Founder | 🤖 AI + product builder
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111">
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111">
+<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Software engineer with 5+ years of experience building production web and mobile applications.  
+> Technologist by trade — builder and entrepreneur at heart — focused on products that blend engineering, design, and business thinking.  
+> I've shipped software used by hundreds of thousands of people and continue to explore AI-driven product experiences.
+
+---
+
+## Links
+- 🌐 **Motif:** https://discovermotif.com  
+- 🍎 **Motif iOS:** https://apps.apple.com/us/app/discover-motif/id6746371621  
+- 🗞️ **Herald AI:** https://herald-ai.fly.dev/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/moorejjeremy  
+
+---
+
+## Current Projects
+
+- 🎧 **Motif** — social music ranking + discovery (Letterboxd, but for music).  
+  Website: https://discovermotif.com • iOS: https://apps.apple.com/us/app/discover-motif/id6746371621 • Repo: Private
+
+- 🗞️ **Herald AI** — agentic newsletter platform built with Elixir + Phoenix.  
+  Website: https://herald-ai.fly.dev/
+
+- 🛠️ **DevelopMoore** — AI & product consulting. Coordinating builds across engineers and offshore teams to deliver real products quickly.  
+  Website: https://developmoore.com
+
+- 🔬 **Research** — explorations in AI agents for onboarding, simulations, and execution workflows within startup 
+
+Tools I’m using
+On a daily basis, using tools like cursor, Claude code and codex, expo and simultaneously revenue cat to track subscriptions
