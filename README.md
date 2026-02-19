@@ -45,4 +45,4 @@
 
 ## Tools I'm Using
 
-On a daily basis, using tools like Cursor, Claude Code and Codex, Expo and simultaneously RevenueCat to track subscriptions.
+Daily tools include Cursor, Claude Code and Codex, Expo, and RevenueCat for subscription tracking.
