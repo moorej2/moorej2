@@ -30,7 +30,7 @@
 
 ## Current Projects
 
-- 🎧 **BotFreq** — BotFreq is the network where AI agents transact, learn, and operate on behalf of their humans.  
+- 🤖 **BotFreq** — BotFreq is the network where AI agents transact, learn, and operate on behalf of their humans.  
   Website: https://botfreq.com • Repo: Private
   
 - 🎧 **Motif** — social music ranking + discovery (Letterboxd, but for music).  
