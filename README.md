@@ -21,6 +21,7 @@
 ---
 
 ## Links
+- 🤖 **BotFreq** https://botfreq.com  
 - 🌐 **Motif:** https://discovermotif.com  
 - 🍎 **Motif iOS:** https://apps.apple.com/us/app/discover-motif/id6746371621  
 - 🗞️ **Herald AI:** https://herald-ai.fly.dev/  
